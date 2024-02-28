@@ -1,13 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ODRPljVAhSgJzgykhLMmcvypqtf6h3Dhicy9G0AT2veQbYPeSaYg1klL2XIY9Pyn8NPvKYzfrDOjOfsYvxFi4Q==",
+  "dgSpecHash": "pYLWp2aWahgdvgOjmKy3VGZFwDzwSWwS+8xJ94nfgdQhD3NewrlIijPhx8CKoEyvekKkmYyeRZhP1hamA1XmfA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Decagon\\source\\repos\\SQ20.Net-Week6-Task\\SQ20.Net-Week6-Task.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\Decagon\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.26\\microsoft.windowsdesktop.app.ref.6.0.26.nupkg.sha512",
-    "C:\\Users\\Decagon\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.26\\microsoft.netcore.app.ref.6.0.26.nupkg.sha512",
-    "C:\\Users\\Decagon\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.26\\microsoft.aspnetcore.app.ref.6.0.26.nupkg.sha512",
-    "C:\\Users\\Decagon\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.26\\microsoft.netcore.app.host.win-x64.6.0.26.nupkg.sha512"
-  ],
+  "projectFilePath": "C:\\Users\\ZBOOK 14U G6\\Desktop\\sq20-net-week-6-task-KcValokoye\\SQ20.Net-Week6-Task.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }
